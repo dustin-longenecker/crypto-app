@@ -1,9 +1,9 @@
 import React from "react";
 
 const Nav = () => (
-  <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+  <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
     <a className="navbar-brand" href="/">
-      React Reading List
+      Coin List
     </a>
   </nav>
 );
